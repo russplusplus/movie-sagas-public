@@ -1,0 +1,9 @@
+.item-container {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.details-container {
+    margin: 10px;
+}
